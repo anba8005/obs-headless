@@ -1,0 +1,25 @@
+{
+    "name": "DefaultShow",
+    "scenes": [
+        {
+            "name": "RTMP A",
+            "sources": [
+                {
+                    "name": "source A",
+                    "type": "RTMP",
+                    "url": "rtmp://35.187.100.40/seize64-test2/16bimbo64u"
+                }
+            ]
+        },
+        {
+            "name": "RTMP B",
+            "sources": [
+                {
+                    "name": "source B",
+                    "type": "RTMP",
+                    "url": "rtmp://35.187.100.40/seize64-test1/16vaudou64"
+                }
+            ]
+        }
+    ]
+}

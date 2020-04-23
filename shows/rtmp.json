@@ -1,0 +1,15 @@
+{
+    "name": "DefaultShow",
+    "scenes": [
+        {
+            "name": "RTMP",
+            "sources": [
+                {
+                    "name": "source",
+                    "type": "RTMP",
+                    "url": "rtmp://35.187.100.40/seize64/abcd"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "DefaultShow",
+    "scenes": [
+        {
+            "name": "scene_0",
+            "sources": [
+                {
+                    "name": "source_0",
+                    "type": "RTMP",
+                    "url": "rtmp://35.187.100.40/seize64-test2/16bimbo64u"
+                }
+            ]
+        },
+        {
+            "name": "scene_1",
+            "sources": [
+                {
+                    "name": "source_1",
+                    "type": "RTMP",
+                    "url": "rtmp://35.187.100.40/seize64-test2/16bimbo64u"
+                }
+            ]
+        },
+        {
+            "name": "scene_2",
+            "sources": [
+                {
+                    "name": "source_2",
+                    "type": "RTMP",
+                    "url": "rtmp://35.187.100.40/seize64-test2/16bimbo64u"
+                }
+            ]
+        }
+    ]
+}
